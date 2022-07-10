@@ -75,7 +75,7 @@ echo 'Hello '.$fname."<br>"; //prints Hello Prasad. concatenation operator "." t
 <body>
   <h1><?php echo 'Hello world'; ?></h1>
   <!-- short hand version -->
-  <!-- used only to print soemthing -->
+  <!-- used only to print single line -->
   <h1><?= 'Hello world' ?></h1>
 </body>
 </html>
