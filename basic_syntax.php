@@ -3,6 +3,7 @@
 /*This tutorial is for beginners and as well as for advanced
 Reference : Youtube channel : Program with Gio
 Youtube link : https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe- 
+video : 1.2
 */
 
 echo "Hello world<br>"; /*prints Hello world. echo used to print something.don't need semicolon if
