@@ -38,7 +38,7 @@ $paid = 'PAID';
 
 define('STATUS1_'. $paid, $paid);
 
-echo STATUS1_PAID; //prints PAID
+//echo STATUS1_PAID; //prints PAID
 
 //predefined constant
 
